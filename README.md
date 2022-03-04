@@ -25,8 +25,8 @@
 ### Some of my projects:
 
 TalkHub: https://talk-hub-net.netlify.app/
+Web 3: https://web3-net.netlify.app/
 
-Web3: https://web3-net.netlify.app/
 ---
 
 <details>

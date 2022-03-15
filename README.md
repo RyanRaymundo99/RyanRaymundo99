@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning React.js and Java Script
 - 🥅 2022 Goals: Learn more about everything
-- ⚡ Fun fact: Among us
 
 ### Languages and Tools:
 

@@ -27,7 +27,10 @@
 TalkHub: https://talk-hub-net.netlify.app/
 <br />
 Web 3: https://web3-net.netlify.app/
-
+<br />
+gericht restaurant: https://gerichtrestaurant-react.netlify.app/
+<br />
+Realtor real state page: https://realtor-app-react.netlify.app/
 ---
 
 <details>

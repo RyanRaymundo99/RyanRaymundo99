@@ -2,7 +2,7 @@
 
 ## I'm a Developer and a student!!
 
-- 🌱 I’m currently learning React.js and Java Script
+- 🌱 I’m currently learning React, Next.js and Angular
 - 🥅 2022 Goals: Learn more about everything
 
 ### Languages and Tools:

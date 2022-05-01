@@ -32,6 +32,9 @@ gericht restaurant: https://gerichtrestaurant-react.netlify.app/
 <br />
 Realtor real state page: https://realtor-app-react.netlify.app/
 
+### Contact:
+Discord: Ryan99#2745
+
 ---
 
 <details>

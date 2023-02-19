@@ -3,7 +3,7 @@
 ## Welcome to my Github portifolio! ##
 
 - 🌱 I’m currently learning React, Next.js and Angular
-- 🥅 2022 Goals: Learn more about everything
+- 🥅 2023 Goals: Learn more about everything
 
 ### Languages and Tools:
 

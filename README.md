@@ -2,8 +2,8 @@
 
 ## Welcome to my Github portifolio! ##
 
-- 🌱 I’m currently learning React, Next.js and Angular
-- 🥅 2023 Goals: Learn more about everything
+- 🌱 I’m currently learning Next.js
+- 🥅 2024 Goals: Learn more about everything
 
 ### Languages and Tools:
 
@@ -33,7 +33,7 @@ Realtor real state page: https://realtor-app-react.netlify.app/
 
 ### Contact:
 Discord: Ryan99#2745
-WhatsApp: (67) 99332-8882
+WhatsApp: (67) 99287-9991
 
 ---
 
